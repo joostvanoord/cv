@@ -1,0 +1,51 @@
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1506530177404">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="master_a-stramien.css" crc="3893661284" ref="index"/>
+    <file name="index.css" crc="63639548" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
+    <file name="museutils.js" crc="4136605575" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="420478120" ref="index"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="index"/>
+    <file name="touchswipe.js" crc="60020316" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4228034700" ref="index"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="cv opzet voor muse boven.png" crc="454121352" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u161.png" crc="4269126053" ref="index"/>
+    <file name="u161-a.png" crc="4269126053" ref="index"/>
+    <file name="u169.png" crc="26179256" ref="index"/>
+    <file name="u169-a.png" crc="26179256" ref="index"/>
+    <file name="u166.png" crc="3793260696" ref="index"/>
+    <file name="u166-a.png" crc="3793260696" ref="index"/>
+    <file name="u220.png" crc="280182920" ref="index"/>
+    <file name="u220-a.png" crc="280182920" ref="index"/>
+    <file name="u329.png" crc="3790861118" ref="index"/>
+    <file name="u329-a.png" crc="3790861118" ref="index"/>
+    <file name="road.jpg" crc="3937323096" ref="index"/>
+    <file name="u155-24.png" crc="127364672" ref="index"/>
+    <file name="u203-26.png" crc="324483993" ref="index"/>
+    <file name="cactus.jpg" crc="75255132" ref="index"/>
+    <file name="u147-34.png" crc="4226710824" ref="index"/>
+    <file name="u235-32.png" crc="352979109" ref="index"/>
+    <file name="u257-16.png" crc="203899207" ref="index"/>
+    <file name="u264-9.png" crc="479429299" ref="index"/>
+    <file name="u258-28.png" crc="236502660" ref="index"/>
+    <file name="icon 2-u396-fr.jpg" crc="4103266264" ref="index"/>
+    <file name="icon 2-u396-r-fr.png" crc="443872888" ref="index"/>
+    <file name="icon 1-u400-fr.jpg" crc="3956599008" ref="index"/>
+    <file name="icon 1-u400-r-fr.png" crc="402364259" ref="index"/>
+    <file name="u383-4.png" crc="4076761349" ref="index"/>
+    <file name="u406-4.png" crc="29569869" ref="index"/>
+    <file name="u408-4.png" crc="439129496" ref="index"/>
+    <file name="cv opzet voor muse onder 3.png" crc="176577154" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3861127720" mt="1506530174115" redirect="true"/>
+</manifest>
